@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-22",
+  "checkpoint": {
+    "lesson": 2,
+    "id": "lesson2-contains-duplicate-review",
+    "title": "Contains Duplicate spaced review",
+    "status": "passed",
+    "mastered": false,
+    "language": "Java",
+    "timeComplexity": "O(n) expected",
+    "spaceComplexity": "O(n)",
+    "next": "Product of Array Except Self"
+  },
+  "dynamicArray": {
+    "completed": [
+      "3A",
+      "3B",
+      "3C",
+      "3D",
+      "3E"
+    ]
+  },
+  "neetCode": {
+    "encountered": 3,
+    "total": 150,
+    "masteredNotInferred": true
+  },
+  "readiness": {
+    "percent": 5,
+    "provisional": true
+  },
+  "notes": "Passed independently with HashSet<Integer>; subsequent spaced reviews still required. Browser localStorage remains authoritative for user-specific progress and is not overwritten by this repository record."
+}
