@@ -1,16 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-23",
   "checkpoint": {
     "lesson": 2,
-    "id": "lesson2-contains-duplicate-review",
-    "title": "Contains Duplicate spaced review",
-    "status": "passed",
+    "id": "lesson2-product-except-self",
+    "title": "Product of Array Except Self",
+    "status": "in_progress",
     "mastered": false,
-    "language": "Java",
-    "timeComplexity": "O(n) expected",
-    "spaceComplexity": "O(n)",
-    "next": "Product of Array Except Self"
+    "completed": [
+      "Algorithm design",
+      "Java implementation"
+    ],
+    "current": "Space optimization",
+    "hintsProvided": true,
+    "notes": "Original Java implementation passed by inspection in O(n) time and O(n) auxiliary space. Reviewed output-space exclusion; memory reuse hint provided. Awaiting revised approach."
   },
   "dynamicArray": {
     "completed": [
@@ -30,5 +33,16 @@
     "percent": 5,
     "provisional": true
   },
-  "notes": "Passed independently with HashSet<Integer>; subsequent spaced reviews still required. Browser localStorage remains authoritative for user-specific progress and is not overwritten by this repository record."
+  "notes": "Passed independently with HashSet<Integer>; subsequent spaced reviews still required. Browser localStorage remains authoritative for user-specific progress and is not overwritten by this repository record.",
+  "previousCheckpoint": {
+    "lesson": 2,
+    "id": "lesson2-contains-duplicate-review",
+    "title": "Contains Duplicate spaced review",
+    "status": "passed",
+    "mastered": false,
+    "language": "Java",
+    "timeComplexity": "O(n) expected",
+    "spaceComplexity": "O(n)",
+    "next": "Product of Array Except Self"
+  }
 }
