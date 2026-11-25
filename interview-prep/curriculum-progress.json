@@ -14,7 +14,15 @@
     ],
     "current": "Complexity and edge-case assessment",
     "hintsProvided": true,
-    "notes": "Optimized Java implementation passed by inspection after conceptual hints and correction of missing return. O(n) time, O(1) auxiliary space. Independent spaced review pending."
+    "notes": "Optimized Java implementation passed by inspection after conceptual hints and correction of missing return. O(n) time, O(1) auxiliary space. Independent spaced review pending.",
+    "assessment": {
+      "completed": [
+        "Time complexity"
+      ],
+      "current": "Auxiliary space complexity",
+      "total": 4,
+      "notes": "Independently explained sequential loops as additive rather than multiplicative."
+    }
   },
   "dynamicArray": {
     "completed": [
