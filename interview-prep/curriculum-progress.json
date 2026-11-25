@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23",
+  "updatedAt": "2026-11-24",
   "checkpoint": {
     "lesson": 2,
     "id": "lesson2-product-except-self",
@@ -9,11 +9,12 @@
     "mastered": false,
     "completed": [
       "Algorithm design",
-      "Java implementation"
+      "Java implementation",
+      "Space optimization"
     ],
-    "current": "Space optimization",
+    "current": "Complexity and edge-case assessment",
     "hintsProvided": true,
-    "notes": "Original Java implementation passed by inspection in O(n) time and O(n) auxiliary space. Reviewed output-space exclusion; memory reuse hint provided. Awaiting revised approach."
+    "notes": "Optimized Java implementation passed by inspection after conceptual hints and correction of missing return. O(n) time, O(1) auxiliary space. Independent spaced review pending."
   },
   "dynamicArray": {
     "completed": [
